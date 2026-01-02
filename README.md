@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=66D717&background=1F1F1F&multiline=true&width=435&height=100&lines=Hi%2C+Tom+Swiderek+here...;Network+Engineer;Trying+to+focus+on+Network+Automation)](https://git.io/typing-svg)
 
 <!--
 **swid-tom/swid-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
