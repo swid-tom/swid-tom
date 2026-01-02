@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=66D717&background=1F1F1F&multiline=true&width=435&height=100&lines=Hi%2C+Tom+Swiderek+here...;Network+Engineer;Trying+to+focus+on+Network+Automation)](https://git.io/typing-svg)
 
+### Some Skills
 [![My Skills](https://skillicons.dev/icons?i=ansible,azure,bash,debian,docker,git,gitLab,grafana,graphql,linux,md,postman,powershell,py,redhat,regex,ubuntu,vscode)](https://skillicons.dev)
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <!--
 **swid-tom/swid-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
