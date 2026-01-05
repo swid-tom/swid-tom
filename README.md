@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=400&color=66D717&background=1F1F1F&multiline=true&width=435&height=100&lines=Hi%2C+Tom+Swiderek+here...;Network+Engineer;dabbling+in+Network+Automation+and+stuff...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=200&color=66D717&background=1F1F1F&multiline=true&width=435&height=100&lines=Hi%2C+Tom+Swiderek+here...;Network+Engineer;Dabbling+in+Network+Automation+and+stuff...)](https://git.io/typing-svg)
 
 ### Quick overview of software skills, etc..
 [![My Skills](https://skillicons.dev/icons?i=ansible,azure,bash,debian,docker,git,gitLab,grafana,graphql,linux,md,postman,powershell,py,redhat,regex,ubuntu,vscode)](https://skillicons.dev)
