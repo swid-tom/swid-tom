@@ -89,7 +89,7 @@ Acknowledgements
 
 https://www.rfc-editor.org/rfc/rfc1925.html
 
-```
+
 Security Considerations
 
    This RFC raises no security issues. However, security protocols are
@@ -99,6 +99,8 @@ References
 
    The references have been deleted in order to protect the guilty and
    avoid enriching the lawyers.
+
+```
 
 
 ### Quick overview of things I possibly may know..
